@@ -1,0 +1,14 @@
+# === BACKUPS ===
+Backups/
+*.zip
+
+# === KICAD AUTOSAVE AND LOCK FILES ===
+Hardware/*~*
+Hardware/*.lck
+Hardware/fp-info-cache
+
+# === BUILD / TEMPORARY FILES (JUST IN CASE) ===
+*.tmp
+*.bak
+*.swp
+*.DS_Store
