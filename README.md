@@ -91,6 +91,24 @@ The firmware is written in Arduino C++ using the following libraries:
 
 ---
 
+## Screenshots
+
+**Schematics**
+![Schematics](<Screenshots/Schematics.png>)
+<br>
+
+**PCB**
+![PCB](<Screenshots/PCB.png>)
+<br>
+
+**3D Front View**
+![3D-Front](<Screenshots/3D-Front.png>)
+<br>
+
+**3D Back View**
+![3D-Back](<Screenshots/3D-Back.png>)
+<br>
+
 ## License
 
 This project is open-source under the [MIT License](LICENSE).  
