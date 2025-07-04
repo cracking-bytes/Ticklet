@@ -94,18 +94,22 @@ The firmware is written in Arduino C++ using the following libraries:
 ## Screenshots
 
 **Schematics**
+<br>
 ![Schematics](<Screenshots/Schematics.png>)
 <br>
 
 **PCB**
+<br>
 ![PCB](<Screenshots/PCB.png>)
 <br>
 
 **3D Front View**
+<br>
 ![3D-Front](<Screenshots/3D-Front.png>)
 <br>
 
 **3D Back View**
+<br>
 ![3D-Back](<Screenshots/3D-Back.png>)
 <br>
 
